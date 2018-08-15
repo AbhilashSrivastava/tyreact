@@ -1,4 +1,4 @@
-# raf-throttle
+# TYREACT: A typescript based react web-app playground
 
 
 ## Installation
