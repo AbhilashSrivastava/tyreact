@@ -1,0 +1,19 @@
+.address-bar {
+  height: 65px;
+  display: flex;
+  align-items: center;
+  flex: 1;
+  background: #353588;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 18px;
+  padding: 0 8px;
+}
+.url {
+  flex-grow: 2;
+  text-align: center;
+}
+.address-bar-back {
+  cursor: pointer;
+}
